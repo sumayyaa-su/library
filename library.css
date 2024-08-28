@@ -1,0 +1,65 @@
+
+body {
+    background-image:url('https://wallpaperaccess.com/full/3234797.jpg') ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.login-card {
+    width: 350px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background: transparent;
+    border-bottom: none;
+}
+
+.card-header h2 {
+    color: #4CAF50;
+    margin-bottom: 10px;
+}
+
+.card-header p {
+    font-size: 12px;
+    color: #666;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.form-control {
+    border-radius: 50px;
+    border: 1px solid #4CAF50;
+    padding-left: 15px;
+}
+
+.btn-primary {
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 50px;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.btn-primary:hover {
+    background-color: #45A049;
+}
+
+.card-footer {
+    background: transparent;
+    border-top: none;
+    padding: 10px 0;
+}
+
+.card-footer a {
+    color: #809280;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.card-footer a:hover {
+    text-decoration: underline;
+}
